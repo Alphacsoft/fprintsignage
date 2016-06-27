@@ -1,0 +1,1 @@
+@extends('template/t_index')
